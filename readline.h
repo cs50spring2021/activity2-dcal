@@ -5,7 +5,7 @@
  * David Kotz, April 2016, 2017, 2019, 2021
  */
 
-#ifndef __READLINE_H__
+#ifndef __READLINE_H__ 
 #define __READLINE_H__
 
 #include <stdbool.h>
